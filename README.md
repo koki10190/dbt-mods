@@ -1,2 +1,3 @@
-# dbt-mods
-All official mods are here
+# Discord Bot Tool Mods
+
+## Use the example mods to create your own mod
